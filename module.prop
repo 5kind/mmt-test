@@ -1,7 +1,7 @@
 id=mmt-test
 name=Mmt Test
 version=v0.1.0
-versionCode=1
+versionCode=3
 author=5kind
 description=Mmt Test
 updateJson=https://raw.githubusercontent.com/5kind/mmt-test/master/update.json

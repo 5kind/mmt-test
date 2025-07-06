@@ -1,6 +1,6 @@
 {
   "version": "v0.1.0",
-  "versionCode": 1,
+  "versionCode": 3,
   "zipUrl": "https://github.com/5kind/mmt-test/releases/download/v0.1.0/install.zip",
   "changelog": "https://raw.githubusercontent.com/5kind/mmt-test/master/changelog.md"
 }
